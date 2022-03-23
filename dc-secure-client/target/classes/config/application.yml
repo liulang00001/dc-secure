@@ -1,0 +1,17 @@
+server:
+  port: 8000
+  servlet:
+    context-path: /dc-secure
+
+spring:
+  application:
+    name: dc-secure
+  profiles:
+    active: local
+
+#logging:
+#  level:
+#    com.payermax.data.secure.dao: debug
+
+mybatis-plus:
+  type-aliases-package: com.payermax.data.secure.domain.entity

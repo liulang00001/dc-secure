@@ -1,0 +1,62 @@
+[2022-03-20 00:11:49.722] INFO [main]c.a.boot.nacos.config.util.NacosConfigPropertiesUtils.buildNacosConfigProperties:47 -nacosConfigProperties : NacosConfigProperties{serverAddr='127.0.0.1:8848', contextPath='null', encode='null', endpoint='null', namespace='null', accessKey='null', secretKey='null', ramRoleName='null', autoRefresh=false, dataId='null', dataIds='null', group='DEFAULT_GROUP', type=null, maxRetry='null', configLongPollTimeout='null', configRetryTime='null', enableRemoteSyncConfig=false, extConfig=[], bootstrap=Bootstrap{enable=false, logEnable=false}}
+[2022-03-20 00:11:49.734] INFO [main]c.a.b.n.c.a.NacosConfigApplicationContextInitializer.initialize:75 -[Nacos Config Boot] : The preload configuration is not enabled
+[2022-03-20 00:11:49.749] INFO [main]com.payermax.data.secure.client.FintechDomainTest.logStarting:55 -Starting FintechDomainTest on Lius-MacBook-Air.local with PID 94043 (started by liulang in /Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure/dc-secure-client)
+[2022-03-20 00:11:49.751] INFO [main]com.payermax.data.secure.client.FintechDomainTest.logStartupProfileInfo:652 -The following profiles are active: local
+[2022-03-20 00:11:56.555] INFO [main]o.s.boot.actuate.endpoint.web.EndpointLinksResolver.<init>:58 -Exposing 2 endpoint(s) beneath base path '/actuator'
+[2022-03-20 00:11:56.795] INFO [main]s.d.s.web.PropertySourcedRequestMappingHandlerMapping.initHandlerMethods:69 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2022-03-20 00:11:58.000] INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:160 -Context refreshed
+[2022-03-20 00:11:58.019] INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:163 -Found 1 custom documentation plugin(s)
+[2022-03-20 00:11:58.067] INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+[2022-03-20 00:11:58.435] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: handleUsingGET_1
+[2022-03-20 00:11:58.441] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: handleUsingGET_2
+[2022-03-20 00:11:58.446] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_1
+[2022-03-20 00:11:58.456] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_1
+[2022-03-20 00:11:58.473] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_1
+[2022-03-20 00:11:58.480] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_1
+[2022-03-20 00:11:58.485] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_1
+[2022-03-20 00:11:58.494] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_2
+[2022-03-20 00:11:58.515] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_2
+[2022-03-20 00:11:58.550] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_2
+[2022-03-20 00:11:58.560] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_2
+[2022-03-20 00:11:58.567] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_2
+[2022-03-20 00:11:58.609] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_3
+[2022-03-20 00:11:58.626] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_3
+[2022-03-20 00:11:58.647] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_3
+[2022-03-20 00:11:58.688] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_3
+[2022-03-20 00:11:58.698] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_3
+[2022-03-20 00:11:58.709] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_4
+[2022-03-20 00:11:58.744] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_4
+[2022-03-20 00:11:58.766] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_4
+[2022-03-20 00:11:58.780] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_4
+[2022-03-20 00:11:58.783] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_4
+[2022-03-20 00:11:58.798] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_5
+[2022-03-20 00:11:58.805] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_5
+[2022-03-20 00:11:58.815] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_5
+[2022-03-20 00:11:58.826] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_5
+[2022-03-20 00:11:58.836] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_5
+[2022-03-20 00:11:58.852] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_6
+[2022-03-20 00:11:58.866] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_6
+[2022-03-20 00:11:58.875] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_6
+[2022-03-20 00:11:58.897] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_6
+[2022-03-20 00:11:58.899] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_6
+[2022-03-20 00:11:58.906] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_7
+[2022-03-20 00:11:58.916] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_7
+[2022-03-20 00:11:58.931] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_7
+[2022-03-20 00:11:58.944] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_7
+[2022-03-20 00:11:58.954] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_7
+[2022-03-20 00:11:58.979] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_8
+[2022-03-20 00:11:58.994] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_8
+[2022-03-20 00:11:59.001] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_8
+[2022-03-20 00:11:59.007] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_8
+[2022-03-20 00:11:59.012] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_8
+[2022-03-20 00:11:59.018] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_9
+[2022-03-20 00:11:59.032] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_9
+[2022-03-20 00:11:59.059] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_9
+[2022-03-20 00:11:59.070] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_9
+[2022-03-20 00:11:59.073] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_9
+[2022-03-20 00:11:59.230] INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+[2022-03-20 00:11:59.274] INFO [main]com.payermax.data.secure.client.FintechDomainTest.logStarted:61 -Started FintechDomainTest in 10.221 seconds (JVM running for 11.606)
+[2022-03-20 00:11:59.744] INFO [SpringContextShutdownHook]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:218 -Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-03-20 00:11:59.761] INFO [SpringContextShutdownHook]com.alibaba.druid.pool.DruidDataSource.close:2071 -{dataSource-0} closing ...
+[2022-03-20 00:11:59.765] INFO [SpringContextShutdownHook]c.a.n.s.c.a.config.NacosValueAnnotationBeanPostProcessor.destroy:354 -class com.alibaba.nacos.spring.context.annotation.config.NacosValueAnnotationBeanPostProcessor was destroying!
+[2022-03-20 00:11:59.766] INFO [SpringContextShutdownHook]c.a.n.s.b.f.a.AnnotationNacosInjectedBeanPostProcessor.destroy:354 -class com.alibaba.nacos.spring.beans.factory.annotation.AnnotationNacosInjectedBeanPostProcessor was destroying!

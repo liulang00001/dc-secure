@@ -1,0 +1,394 @@
+[2022-03-21 14:26:30.649] INFO [main]c.a.boot.nacos.config.util.NacosConfigPropertiesUtils.buildNacosConfigProperties:47 -nacosConfigProperties : NacosConfigProperties{serverAddr='127.0.0.1:8848', contextPath='null', encode='null', endpoint='null', namespace='null', accessKey='null', secretKey='null', ramRoleName='null', autoRefresh=false, dataId='null', dataIds='null', group='DEFAULT_GROUP', type=null, maxRetry='null', configLongPollTimeout='null', configRetryTime='null', enableRemoteSyncConfig=false, extConfig=[], bootstrap=Bootstrap{enable=false, logEnable=false}}
+[2022-03-21 14:26:30.653] INFO [main]c.a.b.n.c.a.NacosConfigApplicationContextInitializer.initialize:75 -[Nacos Config Boot] : The preload configuration is not enabled
+[2022-03-21 14:26:30.664] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStarting:55 -Starting DcSecureMain on Lius-MacBook-Air.local with PID 57682 (/Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure/dc-secure-client/target/classes started by liulang in /Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure)
+[2022-03-21 14:26:30.665] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStartupProfileInfo:652 -The following profiles are active: local
+[2022-03-21 14:26:33.875] INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8000 (http)
+[2022-03-21 14:26:33.895] INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8000"]
+[2022-03-21 14:26:33.896] INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+[2022-03-21 14:26:33.896] INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.46]
+[2022-03-21 14:26:34.059] INFO [main]o.a.c.c.ContainerBase.[Tomcat].[localhost].[/dc-secure].log:173 -Initializing Spring embedded WebApplicationContext
+[2022-03-21 14:26:34.060] INFO [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 3273 ms
+[2022-03-21 14:26:37.037] INFO [main]o.s.boot.actuate.endpoint.web.EndpointLinksResolver.<init>:58 -Exposing 2 endpoint(s) beneath base path '/actuator'
+[2022-03-21 14:26:37.278] INFO [main]s.d.s.web.PropertySourcedRequestMappingHandlerMapping.initHandlerMethods:69 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2022-03-21 14:26:38.440] INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8000"]
+[2022-03-21 14:26:38.485] INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8000 (http) with context path '/dc-secure'
+[2022-03-21 14:26:38.490] INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:160 -Context refreshed
+[2022-03-21 14:26:38.514] INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:163 -Found 1 custom documentation plugin(s)
+[2022-03-21 14:26:38.553] INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+[2022-03-21 14:26:38.803] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: handleUsingGET_1
+[2022-03-21 14:26:38.808] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: handleUsingGET_2
+[2022-03-21 14:26:38.811] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_1
+[2022-03-21 14:26:38.816] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_1
+[2022-03-21 14:26:38.824] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_1
+[2022-03-21 14:26:38.830] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_1
+[2022-03-21 14:26:38.834] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_1
+[2022-03-21 14:26:38.843] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_2
+[2022-03-21 14:26:38.857] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_2
+[2022-03-21 14:26:38.878] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_2
+[2022-03-21 14:26:38.882] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_2
+[2022-03-21 14:26:38.886] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_2
+[2022-03-21 14:26:38.925] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_3
+[2022-03-21 14:26:38.940] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_3
+[2022-03-21 14:26:38.952] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_3
+[2022-03-21 14:26:38.972] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_3
+[2022-03-21 14:26:38.977] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_3
+[2022-03-21 14:26:38.984] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_4
+[2022-03-21 14:26:39.006] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_4
+[2022-03-21 14:26:39.016] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_4
+[2022-03-21 14:26:39.026] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_4
+[2022-03-21 14:26:39.028] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_4
+[2022-03-21 14:26:39.036] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_5
+[2022-03-21 14:26:39.049] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_5
+[2022-03-21 14:26:39.059] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_5
+[2022-03-21 14:26:39.068] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_5
+[2022-03-21 14:26:39.070] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_5
+[2022-03-21 14:26:39.076] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_6
+[2022-03-21 14:26:39.083] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_6
+[2022-03-21 14:26:39.087] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_6
+[2022-03-21 14:26:39.107] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_6
+[2022-03-21 14:26:39.108] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_6
+[2022-03-21 14:26:39.111] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_7
+[2022-03-21 14:26:39.116] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_7
+[2022-03-21 14:26:39.147] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_7
+[2022-03-21 14:26:39.155] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_7
+[2022-03-21 14:26:39.157] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_7
+[2022-03-21 14:26:39.164] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_8
+[2022-03-21 14:26:39.177] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_8
+[2022-03-21 14:26:39.184] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_8
+[2022-03-21 14:26:39.187] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_8
+[2022-03-21 14:26:39.189] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_8
+[2022-03-21 14:26:39.192] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_9
+[2022-03-21 14:26:39.200] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_9
+[2022-03-21 14:26:39.205] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_9
+[2022-03-21 14:26:39.209] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_9
+[2022-03-21 14:26:39.211] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_9
+[2022-03-21 14:26:39.354] INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+[2022-03-21 14:26:39.413] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStarted:61 -Started DcSecureMain in 9.505 seconds (JVM running for 10.608)
+[2022-03-21 14:26:40.358] INFO [RMI TCP Connection(1)-10.103.228.20]o.a.c.c.ContainerBase.[Tomcat].[localhost].[/dc-secure].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-03-21 14:26:40.362] INFO [RMI TCP Connection(1)-10.103.228.20]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+[2022-03-21 14:26:40.425] INFO [RMI TCP Connection(1)-10.103.228.20]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 63 ms
+[2022-03-21 14:26:50.617] INFO [RMI TCP Connection(2)-10.103.228.20]com.alibaba.druid.pool.DruidDataSource.init:998 -{dataSource-1} inited
+[2022-03-21 15:18:50.490] INFO [SpringContextShutdownHook]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:218 -Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-03-21 15:18:50.619] INFO [SpringContextShutdownHook]com.alibaba.druid.pool.DruidDataSource.close:2071 -{dataSource-1} closing ...
+[2022-03-21 15:18:50.702] INFO [SpringContextShutdownHook]com.alibaba.druid.pool.DruidDataSource.close:2144 -{dataSource-1} closed
+[2022-03-21 15:18:50.806] INFO [SpringContextShutdownHook]c.a.n.s.c.a.config.NacosValueAnnotationBeanPostProcessor.destroy:354 -class com.alibaba.nacos.spring.context.annotation.config.NacosValueAnnotationBeanPostProcessor was destroying!
+[2022-03-21 15:18:50.818] INFO [SpringContextShutdownHook]c.a.n.s.b.f.a.AnnotationNacosInjectedBeanPostProcessor.destroy:354 -class com.alibaba.nacos.spring.beans.factory.annotation.AnnotationNacosInjectedBeanPostProcessor was destroying!
+[2022-03-21 15:27:33.146] INFO [main]c.a.boot.nacos.config.util.NacosConfigPropertiesUtils.buildNacosConfigProperties:47 -nacosConfigProperties : NacosConfigProperties{serverAddr='127.0.0.1:8848', contextPath='null', encode='null', endpoint='null', namespace='null', accessKey='null', secretKey='null', ramRoleName='null', autoRefresh=false, dataId='null', dataIds='null', group='DEFAULT_GROUP', type=null, maxRetry='null', configLongPollTimeout='null', configRetryTime='null', enableRemoteSyncConfig=false, extConfig=[], bootstrap=Bootstrap{enable=false, logEnable=false}}
+[2022-03-21 15:27:33.158] INFO [main]c.a.b.n.c.a.NacosConfigApplicationContextInitializer.initialize:75 -[Nacos Config Boot] : The preload configuration is not enabled
+[2022-03-21 15:27:33.167] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStarting:55 -Starting DcSecureMain on Lius-MacBook-Air.local with PID 63372 (/Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure/dc-secure-client/target/classes started by liulang in /Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure)
+[2022-03-21 15:27:33.168] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStartupProfileInfo:652 -The following profiles are active: local
+[2022-03-21 15:27:36.107] INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8000 (http)
+[2022-03-21 15:27:36.130] INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8000"]
+[2022-03-21 15:27:36.131] INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+[2022-03-21 15:27:36.131] INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.46]
+[2022-03-21 15:27:36.343] INFO [main]o.a.c.c.ContainerBase.[Tomcat].[localhost].[/dc-secure].log:173 -Initializing Spring embedded WebApplicationContext
+[2022-03-21 15:27:36.344] INFO [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 3084 ms
+[2022-03-21 15:27:39.708] INFO [main]o.s.boot.actuate.endpoint.web.EndpointLinksResolver.<init>:58 -Exposing 2 endpoint(s) beneath base path '/actuator'
+[2022-03-21 15:27:39.958] INFO [main]s.d.s.web.PropertySourcedRequestMappingHandlerMapping.initHandlerMethods:69 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2022-03-21 15:27:41.153] INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8000"]
+[2022-03-21 15:27:41.185] INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8000 (http) with context path '/dc-secure'
+[2022-03-21 15:27:41.196] INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:160 -Context refreshed
+[2022-03-21 15:27:41.234] INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:163 -Found 1 custom documentation plugin(s)
+[2022-03-21 15:27:41.275] INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+[2022-03-21 15:27:41.577] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: handleUsingGET_1
+[2022-03-21 15:27:41.581] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: handleUsingGET_2
+[2022-03-21 15:27:41.585] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_1
+[2022-03-21 15:27:41.588] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_1
+[2022-03-21 15:27:41.595] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_1
+[2022-03-21 15:27:41.600] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_1
+[2022-03-21 15:27:41.603] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_1
+[2022-03-21 15:27:41.607] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_2
+[2022-03-21 15:27:41.615] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_2
+[2022-03-21 15:27:41.628] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_2
+[2022-03-21 15:27:41.630] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_2
+[2022-03-21 15:27:41.631] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_2
+[2022-03-21 15:27:41.649] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_3
+[2022-03-21 15:27:41.659] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_3
+[2022-03-21 15:27:41.667] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_3
+[2022-03-21 15:27:41.680] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_3
+[2022-03-21 15:27:41.682] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_3
+[2022-03-21 15:27:41.688] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_4
+[2022-03-21 15:27:41.699] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_4
+[2022-03-21 15:27:41.714] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_4
+[2022-03-21 15:27:41.719] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_4
+[2022-03-21 15:27:41.720] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_4
+[2022-03-21 15:27:41.725] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_5
+[2022-03-21 15:27:41.730] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_5
+[2022-03-21 15:27:41.735] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_5
+[2022-03-21 15:27:41.742] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_5
+[2022-03-21 15:27:41.744] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_5
+[2022-03-21 15:27:41.748] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_6
+[2022-03-21 15:27:41.751] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_6
+[2022-03-21 15:27:41.754] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_6
+[2022-03-21 15:27:41.765] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_6
+[2022-03-21 15:27:41.766] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_6
+[2022-03-21 15:27:41.768] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_7
+[2022-03-21 15:27:41.774] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_7
+[2022-03-21 15:27:41.780] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_7
+[2022-03-21 15:27:41.788] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_7
+[2022-03-21 15:27:41.791] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_7
+[2022-03-21 15:27:41.797] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_8
+[2022-03-21 15:27:41.803] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_8
+[2022-03-21 15:27:41.810] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_8
+[2022-03-21 15:27:41.812] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_8
+[2022-03-21 15:27:41.813] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_8
+[2022-03-21 15:27:41.816] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_9
+[2022-03-21 15:27:41.823] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_9
+[2022-03-21 15:27:41.828] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_9
+[2022-03-21 15:27:41.830] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_9
+[2022-03-21 15:27:41.832] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_9
+[2022-03-21 15:27:41.906] INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+[2022-03-21 15:27:41.949] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStarted:61 -Started DcSecureMain in 9.455 seconds (JVM running for 10.953)
+[2022-03-21 15:27:45.467] INFO [RMI TCP Connection(2)-10.103.228.20]o.a.c.c.ContainerBase.[Tomcat].[localhost].[/dc-secure].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-03-21 15:27:45.476] INFO [RMI TCP Connection(2)-10.103.228.20]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+[2022-03-21 15:27:45.537] INFO [RMI TCP Connection(2)-10.103.228.20]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 61 ms
+[2022-03-21 15:27:54.253] INFO [RMI TCP Connection(1)-10.103.228.20]com.alibaba.druid.pool.DruidDataSource.init:998 -{dataSource-1} inited
+[2022-03-21 15:33:32.472] INFO [SpringContextShutdownHook]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:218 -Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-03-21 15:33:32.522] INFO [SpringContextShutdownHook]com.alibaba.druid.pool.DruidDataSource.close:2071 -{dataSource-1} closing ...
+[2022-03-21 15:33:32.550] INFO [SpringContextShutdownHook]com.alibaba.druid.pool.DruidDataSource.close:2144 -{dataSource-1} closed
+[2022-03-21 15:33:32.576] INFO [SpringContextShutdownHook]c.a.n.s.c.a.config.NacosValueAnnotationBeanPostProcessor.destroy:354 -class com.alibaba.nacos.spring.context.annotation.config.NacosValueAnnotationBeanPostProcessor was destroying!
+[2022-03-21 15:33:32.584] INFO [SpringContextShutdownHook]c.a.n.s.b.f.a.AnnotationNacosInjectedBeanPostProcessor.destroy:354 -class com.alibaba.nacos.spring.beans.factory.annotation.AnnotationNacosInjectedBeanPostProcessor was destroying!
+[2022-03-21 15:33:41.682] INFO [main]c.a.boot.nacos.config.util.NacosConfigPropertiesUtils.buildNacosConfigProperties:47 -nacosConfigProperties : NacosConfigProperties{serverAddr='127.0.0.1:8848', contextPath='null', encode='null', endpoint='null', namespace='null', accessKey='null', secretKey='null', ramRoleName='null', autoRefresh=false, dataId='null', dataIds='null', group='DEFAULT_GROUP', type=null, maxRetry='null', configLongPollTimeout='null', configRetryTime='null', enableRemoteSyncConfig=false, extConfig=[], bootstrap=Bootstrap{enable=false, logEnable=false}}
+[2022-03-21 15:33:41.686] INFO [main]c.a.b.n.c.a.NacosConfigApplicationContextInitializer.initialize:75 -[Nacos Config Boot] : The preload configuration is not enabled
+[2022-03-21 15:33:41.699] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStarting:55 -Starting DcSecureMain on Lius-MacBook-Air.local with PID 64010 (/Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure/dc-secure-client/target/classes started by liulang in /Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure)
+[2022-03-21 15:33:41.699] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStartupProfileInfo:652 -The following profiles are active: local
+[2022-03-21 15:33:44.182] INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8000 (http)
+[2022-03-21 15:33:44.191] INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8000"]
+[2022-03-21 15:33:44.191] INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+[2022-03-21 15:33:44.191] INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.46]
+[2022-03-21 15:33:44.277] INFO [main]o.a.c.c.ContainerBase.[Tomcat].[localhost].[/dc-secure].log:173 -Initializing Spring embedded WebApplicationContext
+[2022-03-21 15:33:44.278] INFO [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 2470 ms
+[2022-03-21 15:33:46.334] INFO [main]o.s.boot.actuate.endpoint.web.EndpointLinksResolver.<init>:58 -Exposing 2 endpoint(s) beneath base path '/actuator'
+[2022-03-21 15:33:46.503] INFO [main]s.d.s.web.PropertySourcedRequestMappingHandlerMapping.initHandlerMethods:69 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2022-03-21 15:33:47.172] INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8000"]
+[2022-03-21 15:33:47.191] INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8000 (http) with context path '/dc-secure'
+[2022-03-21 15:33:47.194] INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:160 -Context refreshed
+[2022-03-21 15:33:47.202] INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:163 -Found 1 custom documentation plugin(s)
+[2022-03-21 15:33:47.225] INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+[2022-03-21 15:33:47.397] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: handleUsingGET_1
+[2022-03-21 15:33:47.400] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: handleUsingGET_2
+[2022-03-21 15:33:47.403] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_1
+[2022-03-21 15:33:47.407] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_1
+[2022-03-21 15:33:47.413] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_1
+[2022-03-21 15:33:47.417] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_1
+[2022-03-21 15:33:47.419] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_1
+[2022-03-21 15:33:47.422] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_2
+[2022-03-21 15:33:47.429] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_2
+[2022-03-21 15:33:47.445] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_2
+[2022-03-21 15:33:47.448] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_2
+[2022-03-21 15:33:47.450] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_2
+[2022-03-21 15:33:47.476] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_3
+[2022-03-21 15:33:47.487] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_3
+[2022-03-21 15:33:47.500] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_3
+[2022-03-21 15:33:47.509] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_3
+[2022-03-21 15:33:47.512] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_3
+[2022-03-21 15:33:47.515] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_4
+[2022-03-21 15:33:47.525] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_4
+[2022-03-21 15:33:47.535] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_4
+[2022-03-21 15:33:47.539] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_4
+[2022-03-21 15:33:47.540] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_4
+[2022-03-21 15:33:47.546] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_5
+[2022-03-21 15:33:47.550] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_5
+[2022-03-21 15:33:47.554] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_5
+[2022-03-21 15:33:47.558] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_5
+[2022-03-21 15:33:47.560] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_5
+[2022-03-21 15:33:47.563] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_6
+[2022-03-21 15:33:47.566] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_6
+[2022-03-21 15:33:47.569] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_6
+[2022-03-21 15:33:47.579] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_6
+[2022-03-21 15:33:47.580] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_6
+[2022-03-21 15:33:47.582] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_7
+[2022-03-21 15:33:47.586] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_7
+[2022-03-21 15:33:47.590] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_7
+[2022-03-21 15:33:47.595] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_7
+[2022-03-21 15:33:47.596] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_7
+[2022-03-21 15:33:47.600] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_8
+[2022-03-21 15:33:47.605] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_8
+[2022-03-21 15:33:47.609] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_8
+[2022-03-21 15:33:47.612] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_8
+[2022-03-21 15:33:47.613] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_8
+[2022-03-21 15:33:47.616] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_9
+[2022-03-21 15:33:47.626] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_9
+[2022-03-21 15:33:47.631] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_9
+[2022-03-21 15:33:47.634] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_9
+[2022-03-21 15:33:47.635] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_9
+[2022-03-21 15:33:47.700] INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+[2022-03-21 15:33:47.733] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStarted:61 -Started DcSecureMain in 6.702 seconds (JVM running for 7.612)
+[2022-03-21 15:33:48.629] INFO [RMI TCP Connection(2)-10.103.228.20]o.a.c.c.ContainerBase.[Tomcat].[localhost].[/dc-secure].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-03-21 15:33:48.632] INFO [RMI TCP Connection(2)-10.103.228.20]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+[2022-03-21 15:33:48.713] INFO [RMI TCP Connection(2)-10.103.228.20]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 81 ms
+[2022-03-21 15:33:57.857] INFO [RMI TCP Connection(1)-10.103.228.20]com.alibaba.druid.pool.DruidDataSource.init:998 -{dataSource-1} inited
+[2022-03-21 16:09:11.102] INFO [SpringContextShutdownHook]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:218 -Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-03-21 16:09:11.179] INFO [SpringContextShutdownHook]com.alibaba.druid.pool.DruidDataSource.close:2071 -{dataSource-1} closing ...
+[2022-03-21 16:09:11.234] INFO [SpringContextShutdownHook]com.alibaba.druid.pool.DruidDataSource.close:2144 -{dataSource-1} closed
+[2022-03-21 16:09:11.347] INFO [SpringContextShutdownHook]c.a.n.s.c.a.config.NacosValueAnnotationBeanPostProcessor.destroy:354 -class com.alibaba.nacos.spring.context.annotation.config.NacosValueAnnotationBeanPostProcessor was destroying!
+[2022-03-21 16:09:11.351] INFO [SpringContextShutdownHook]c.a.n.s.b.f.a.AnnotationNacosInjectedBeanPostProcessor.destroy:354 -class com.alibaba.nacos.spring.beans.factory.annotation.AnnotationNacosInjectedBeanPostProcessor was destroying!
+[2022-03-21 18:05:19.051] INFO [main]c.a.boot.nacos.config.util.NacosConfigPropertiesUtils.buildNacosConfigProperties:47 -nacosConfigProperties : NacosConfigProperties{serverAddr='prod.nacos.pay.sg1.api:8848', contextPath='null', encode='null', endpoint='null', namespace='prod', accessKey='null', secretKey='null', ramRoleName='null', autoRefresh=true, dataId='application.yml', dataIds='null', group='dc-secure', type=YAML, maxRetry='null', configLongPollTimeout='null', configRetryTime='null', enableRemoteSyncConfig=false, extConfig=[], bootstrap=Bootstrap{enable=true, logEnable=false}}
+[2022-03-21 18:05:19.760] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 79 ms to scan 1 urls, producing 3 keys and 6 values 
+[2022-03-21 18:05:19.833] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 45 ms to scan 1 urls, producing 4 keys and 9 values 
+[2022-03-21 18:05:19.894] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 47 ms to scan 1 urls, producing 3 keys and 10 values 
+[2022-03-21 18:05:20.110] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 210 ms to scan 153 urls, producing 0 keys and 0 values 
+[2022-03-21 18:05:20.124] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 10 ms to scan 1 urls, producing 1 keys and 5 values 
+[2022-03-21 18:05:20.139] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 9 ms to scan 1 urls, producing 1 keys and 7 values 
+[2022-03-21 18:05:20.152] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 9 ms to scan 1 urls, producing 2 keys and 8 values 
+[2022-03-21 18:05:20.344] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 189 ms to scan 153 urls, producing 0 keys and 0 values 
+[2022-03-21 18:05:21.109] INFO [main]com.alibaba.boot.nacos.config.util.NacosConfigLoader.reqNacosConfig:169 -load config from nacos, data-id is : application.yml, group is : dc-secure
+[2022-03-21 18:05:21.141] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStarting:55 -Starting DcSecureMain on Lius-MacBook-Air.local with PID 77843 (/Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure/dc-secure-client/target/classes started by liulang in /Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure)
+[2022-03-21 18:05:21.141] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStartupProfileInfo:652 -The following profiles are active: prod
+[2022-03-21 18:05:23.819] INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8000 (http)
+[2022-03-21 18:05:23.826] INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8000"]
+[2022-03-21 18:05:23.826] INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+[2022-03-21 18:05:23.826] INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.46]
+[2022-03-21 18:05:23.921] INFO [main]o.a.c.c.ContainerBase.[Tomcat].[localhost].[/dc-secure].log:173 -Initializing Spring embedded WebApplicationContext
+[2022-03-21 18:05:23.921] INFO [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 2699 ms
+[2022-03-21 18:05:24.382] INFO [main]c.a.n.s.c.a.config.NacosValueAnnotationBeanPostProcessor.destroy:354 -class com.alibaba.nacos.spring.context.annotation.config.NacosValueAnnotationBeanPostProcessor was destroying!
+[2022-03-21 18:05:24.382] INFO [main]c.a.n.s.b.f.a.AnnotationNacosInjectedBeanPostProcessor.destroy:354 -class com.alibaba.nacos.spring.beans.factory.annotation.AnnotationNacosInjectedBeanPostProcessor was destroying!
+[2022-03-21 18:05:24.385] INFO [main]org.apache.catalina.core.StandardService.log:173 -Stopping service [Tomcat]
+[2022-03-21 18:05:24.412] INFO [main]o.s.b.a.logging.ConditionEvaluationReportLoggingListener.logMessage:136 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2022-03-21 18:05:24.424] ERROR[main]o.s.boot.diagnostics.LoggingFailureAnalysisReporter.report:40 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (the profiles prod are currently active).
+
+[2022-03-21 18:06:23.879] INFO [main]c.a.boot.nacos.config.util.NacosConfigPropertiesUtils.buildNacosConfigProperties:47 -nacosConfigProperties : NacosConfigProperties{serverAddr='172.20.94.210:8848', contextPath='null', encode='null', endpoint='null', namespace='6e07ceb6-97a7-49de-a8ce-b66097165a27', accessKey='null', secretKey='null', ramRoleName='null', autoRefresh=true, dataId='application.yml', dataIds='null', group='dc-secure', type=YAML, maxRetry='null', configLongPollTimeout='null', configRetryTime='null', enableRemoteSyncConfig=false, extConfig=[], bootstrap=Bootstrap{enable=true, logEnable=false}}
+[2022-03-21 18:06:24.153] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 46 ms to scan 1 urls, producing 3 keys and 6 values 
+[2022-03-21 18:06:24.195] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 17 ms to scan 1 urls, producing 4 keys and 9 values 
+[2022-03-21 18:06:24.213] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 14 ms to scan 1 urls, producing 3 keys and 10 values 
+[2022-03-21 18:06:24.395] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 179 ms to scan 153 urls, producing 0 keys and 0 values 
+[2022-03-21 18:06:24.413] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 13 ms to scan 1 urls, producing 1 keys and 5 values 
+[2022-03-21 18:06:24.429] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 13 ms to scan 1 urls, producing 1 keys and 7 values 
+[2022-03-21 18:06:24.443] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 11 ms to scan 1 urls, producing 2 keys and 8 values 
+[2022-03-21 18:06:24.583] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 134 ms to scan 153 urls, producing 0 keys and 0 values 
+[2022-03-21 18:06:27.608] INFO [main]com.alibaba.boot.nacos.config.util.NacosConfigLoader.reqNacosConfig:169 -load config from nacos, data-id is : application.yml, group is : dc-secure
+[2022-03-21 18:06:27.677] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStarting:55 -Starting DcSecureMain on Lius-MacBook-Air.local with PID 77971 (/Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure/dc-secure-client/target/classes started by liulang in /Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure)
+[2022-03-21 18:06:27.677] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStartupProfileInfo:652 -The following profiles are active: test
+[2022-03-21 18:06:30.192] INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8000 (http)
+[2022-03-21 18:06:30.206] INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8000"]
+[2022-03-21 18:06:30.209] INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+[2022-03-21 18:06:30.210] INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.46]
+[2022-03-21 18:06:30.362] INFO [main]o.a.c.c.ContainerBase.[Tomcat].[localhost].[/dc-secure].log:173 -Initializing Spring embedded WebApplicationContext
+[2022-03-21 18:06:30.363] INFO [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 2619 ms
+[2022-03-21 18:06:32.581] INFO [main]o.s.boot.actuate.endpoint.web.EndpointLinksResolver.<init>:58 -Exposing 2 endpoint(s) beneath base path '/actuator'
+[2022-03-21 18:06:32.735] INFO [main]s.d.s.web.PropertySourcedRequestMappingHandlerMapping.initHandlerMethods:69 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+[2022-03-21 18:06:33.464] INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8000"]
+[2022-03-21 18:06:33.504] INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 -Tomcat started on port(s): 8000 (http) with context path '/dc-secure'
+[2022-03-21 18:06:33.506] INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:160 -Context refreshed
+[2022-03-21 18:06:33.527] INFO [main]s.d.spring.web.plugins.DocumentationPluginsBootstrapper.start:163 -Found 1 custom documentation plugin(s)
+[2022-03-21 18:06:33.573] INFO [main]s.d.spring.web.scanners.ApiListingReferenceScanner.scan:41 -Scanning for api listing references
+[2022-03-21 18:06:33.854] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: handleUsingGET_1
+[2022-03-21 18:06:33.856] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: handleUsingGET_2
+[2022-03-21 18:06:33.861] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_1
+[2022-03-21 18:06:33.874] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_1
+[2022-03-21 18:06:33.884] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_1
+[2022-03-21 18:06:33.891] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_1
+[2022-03-21 18:06:33.893] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_1
+[2022-03-21 18:06:33.898] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_2
+[2022-03-21 18:06:33.909] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_2
+[2022-03-21 18:06:33.926] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_2
+[2022-03-21 18:06:33.933] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_2
+[2022-03-21 18:06:33.934] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_2
+[2022-03-21 18:06:33.960] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_3
+[2022-03-21 18:06:33.978] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_3
+[2022-03-21 18:06:33.991] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_3
+[2022-03-21 18:06:34.000] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_3
+[2022-03-21 18:06:34.003] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_3
+[2022-03-21 18:06:34.012] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_4
+[2022-03-21 18:06:34.020] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_4
+[2022-03-21 18:06:34.033] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_4
+[2022-03-21 18:06:34.042] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_4
+[2022-03-21 18:06:34.050] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_4
+[2022-03-21 18:06:34.055] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_5
+[2022-03-21 18:06:34.060] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_5
+[2022-03-21 18:06:34.081] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_5
+[2022-03-21 18:06:34.087] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_5
+[2022-03-21 18:06:34.097] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_5
+[2022-03-21 18:06:34.105] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_6
+[2022-03-21 18:06:34.115] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_6
+[2022-03-21 18:06:34.126] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_6
+[2022-03-21 18:06:34.140] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_6
+[2022-03-21 18:06:34.144] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_6
+[2022-03-21 18:06:34.147] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_7
+[2022-03-21 18:06:34.153] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_7
+[2022-03-21 18:06:34.162] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_7
+[2022-03-21 18:06:34.174] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_7
+[2022-03-21 18:06:34.176] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_7
+[2022-03-21 18:06:34.193] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_8
+[2022-03-21 18:06:34.197] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_8
+[2022-03-21 18:06:34.202] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_8
+[2022-03-21 18:06:34.205] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_8
+[2022-03-21 18:06:34.208] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_8
+[2022-03-21 18:06:34.213] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: deleteRecordByIdUsingGET_9
+[2022-03-21 18:06:34.222] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryByIdUsingGET_9
+[2022-03-21 18:06:34.227] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: queryPageUsingPOST_9
+[2022-03-21 18:06:34.229] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: saveRecordUsingPOST_9
+[2022-03-21 18:06:34.231] INFO [main]s.d.s.w.readers.operation.CachingOperationNameGenerator.startingWith:40 -Generating unique operation named: updateRecordUsingPOST_9
+[2022-03-21 18:06:34.369] INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:181 -Initializing ExecutorService 'applicationTaskExecutor'
+[2022-03-21 18:06:34.512] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStarted:61 -Started DcSecureMain in 11.484 seconds (JVM running for 12.68)
+[2022-03-21 18:06:36.856] INFO [RMI TCP Connection(3)-127.0.0.1]o.a.c.c.ContainerBase.[Tomcat].[localhost].[/dc-secure].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2022-03-21 18:06:36.864] INFO [RMI TCP Connection(3)-127.0.0.1]org.springframework.web.servlet.DispatcherServlet.initServletBean:525 -Initializing Servlet 'dispatcherServlet'
+[2022-03-21 18:06:37.010] INFO [RMI TCP Connection(3)-127.0.0.1]org.springframework.web.servlet.DispatcherServlet.initServletBean:547 -Completed initialization in 146 ms
+[2022-03-21 18:06:44.205] INFO [SpringContextShutdownHook]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:218 -Shutting down ExecutorService 'applicationTaskExecutor'
+[2022-03-21 18:06:44.219] INFO [SpringContextShutdownHook]com.alibaba.druid.pool.DruidDataSource.close:2071 -{dataSource-1} closing ...
+[2022-03-21 18:06:47.969] INFO [RMI TCP Connection(2)-127.0.0.1]com.alibaba.druid.pool.DruidDataSource.init:998 -{dataSource-1} inited
+[2022-03-21 18:06:47.992] INFO [SpringContextShutdownHook]com.alibaba.druid.pool.DruidDataSource.close:2144 -{dataSource-1} closed
+[2022-03-21 18:06:48.006] INFO [SpringContextShutdownHook]c.a.n.s.c.a.config.NacosValueAnnotationBeanPostProcessor.destroy:354 -class com.alibaba.nacos.spring.context.annotation.config.NacosValueAnnotationBeanPostProcessor was destroying!
+[2022-03-21 18:06:48.007] INFO [SpringContextShutdownHook]c.a.n.s.b.f.a.AnnotationNacosInjectedBeanPostProcessor.destroy:354 -class com.alibaba.nacos.spring.beans.factory.annotation.AnnotationNacosInjectedBeanPostProcessor was destroying!
+[2022-03-21 18:07:01.363] INFO [main]c.a.boot.nacos.config.util.NacosConfigPropertiesUtils.buildNacosConfigProperties:47 -nacosConfigProperties : NacosConfigProperties{serverAddr='prod.nacos.pay.sg1.api:8848', contextPath='null', encode='null', endpoint='null', namespace='prod', accessKey='null', secretKey='null', ramRoleName='null', autoRefresh=true, dataId='application.yml', dataIds='null', group='dc-secure', type=YAML, maxRetry='null', configLongPollTimeout='null', configRetryTime='null', enableRemoteSyncConfig=false, extConfig=[], bootstrap=Bootstrap{enable=true, logEnable=false}}
+[2022-03-21 18:07:01.785] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 44 ms to scan 1 urls, producing 3 keys and 6 values 
+[2022-03-21 18:07:01.817] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 17 ms to scan 1 urls, producing 4 keys and 9 values 
+[2022-03-21 18:07:01.837] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 17 ms to scan 1 urls, producing 3 keys and 10 values 
+[2022-03-21 18:07:02.016] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 173 ms to scan 153 urls, producing 0 keys and 0 values 
+[2022-03-21 18:07:02.033] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 15 ms to scan 1 urls, producing 1 keys and 5 values 
+[2022-03-21 18:07:02.047] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 9 ms to scan 1 urls, producing 1 keys and 7 values 
+[2022-03-21 18:07:02.058] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 8 ms to scan 1 urls, producing 2 keys and 8 values 
+[2022-03-21 18:07:02.163] INFO [main]org.reflections.Reflections.scan:232 -Reflections took 100 ms to scan 153 urls, producing 0 keys and 0 values 
+[2022-03-21 18:07:03.066] INFO [main]com.alibaba.boot.nacos.config.util.NacosConfigLoader.reqNacosConfig:169 -load config from nacos, data-id is : application.yml, group is : dc-secure
+[2022-03-21 18:07:03.111] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStarting:55 -Starting DcSecureMain on Lius-MacBook-Air.local with PID 78074 (/Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure/dc-secure-client/target/classes started by liulang in /Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure)
+[2022-03-21 18:07:03.112] INFO [main]com.payermax.data.secure.client.DcSecureMain.logStartupProfileInfo:652 -The following profiles are active: prod
+[2022-03-21 18:07:07.195] INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 -Tomcat initialized with port(s): 8000 (http)
+[2022-03-21 18:07:07.209] INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8000"]
+[2022-03-21 18:07:07.209] INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+[2022-03-21 18:07:07.209] INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.46]
+[2022-03-21 18:07:07.429] INFO [main]o.a.c.c.ContainerBase.[Tomcat].[localhost].[/dc-secure].log:173 -Initializing Spring embedded WebApplicationContext
+[2022-03-21 18:07:07.430] INFO [main]o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:285 -Root WebApplicationContext: initialization completed in 4216 ms
+[2022-03-21 18:07:08.417] INFO [main]c.a.n.s.c.a.config.NacosValueAnnotationBeanPostProcessor.destroy:354 -class com.alibaba.nacos.spring.context.annotation.config.NacosValueAnnotationBeanPostProcessor was destroying!
+[2022-03-21 18:07:08.418] INFO [main]c.a.n.s.b.f.a.AnnotationNacosInjectedBeanPostProcessor.destroy:354 -class com.alibaba.nacos.spring.beans.factory.annotation.AnnotationNacosInjectedBeanPostProcessor was destroying!
+[2022-03-21 18:07:08.432] INFO [main]org.apache.catalina.core.StandardService.log:173 -Stopping service [Tomcat]
+[2022-03-21 18:07:08.511] INFO [main]o.s.b.a.logging.ConditionEvaluationReportLoggingListener.logMessage:136 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2022-03-21 18:07:08.557] ERROR[main]o.s.boot.diagnostics.LoggingFailureAnalysisReporter.report:40 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured.
+
+Reason: Failed to determine a suitable driver class
+
+
+Action:
+
+Consider the following:
+	If you want an embedded database (H2, HSQL or Derby), please put it on the classpath.
+	If you have database settings to be loaded from a particular profile you may need to activate it (the profiles prod are currently active).
+

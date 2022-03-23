@@ -1,0 +1,421 @@
+[2022-03-21 14:35:36.296] WARN [http-nio-8000-exec-2]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 496370
+[2022-03-21 14:35:36.435] WARN [http-nio-8000-exec-2]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 527566
+[2022-03-21 14:35:36.560] WARN [http-nio-8000-exec-2]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 529096
+[2022-03-21 14:35:36.701] WARN [http-nio-8000-exec-2]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 531140
+[2022-03-21 14:35:36.826] WARN [http-nio-8000-exec-2]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 534151
+[2022-03-21 14:38:04.592] WARN [http-nio-8000-exec-7]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 70691
+[2022-03-21 14:38:04.755] WARN [http-nio-8000-exec-7]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 99074
+[2022-03-21 14:40:49.798] WARN [http-nio-8000-exec-8]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 115252
+[2022-03-21 14:40:49.944] WARN [http-nio-8000-exec-8]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 121751
+[2022-03-21 14:44:14.792] WARN [http-nio-8000-exec-1]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 198113
+[2022-03-21 14:46:26.498] WARN [http-nio-8000-exec-2]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 101938
+[2022-03-21 15:04:37.325] WARN [http-nio-8000-exec-10]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 1033558
+[2022-03-21 15:07:52.343] WARN [http-nio-8000-exec-5]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 176274
+[2022-03-21 15:11:24.677] WARN [http-nio-8000-exec-6]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 199365
+[2022-03-21 15:15:47.511] WARN [http-nio-8000-exec-9]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 246755
+[2022-03-21 15:30:35.785] WARN [http-nio-8000-exec-2]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 99886
+[2022-03-21 15:30:35.933] WARN [http-nio-8000-exec-2]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 163702
+[2022-03-21 15:30:36.069] WARN [http-nio-8000-exec-2]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 165424
+[2022-03-21 15:30:36.202] WARN [http-nio-8000-exec-2]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 167266
+[2022-03-21 15:30:36.330] WARN [http-nio-8000-exec-2]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 168988
+[2022-03-21 15:43:28.355] WARN [http-nio-8000-exec-7]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 469593
+[2022-03-21 15:43:28.505] WARN [http-nio-8000-exec-7]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 573378
+[2022-03-21 15:43:28.638] WARN [http-nio-8000-exec-7]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 575136
+[2022-03-21 15:43:28.752] WARN [http-nio-8000-exec-7]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 576974
+[2022-03-21 15:43:28.885] WARN [http-nio-8000-exec-7]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 578580
+[2022-03-21 15:45:18.270] WARN [http-nio-8000-exec-1]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 93623
+[2022-03-21 15:49:37.462] WARN [http-nio-8000-exec-1]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 81068
+[2022-03-21 15:55:20.048] WARN [http-nio-8000-exec-5]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 289991
+[2022-03-21 16:01:34.611] WARN [http-nio-8000-exec-2]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 359290
+[2022-03-21 16:01:34.742] WARN [http-nio-8000-exec-2]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 372184
+[2022-03-21 16:04:24.374] WARN [http-nio-8000-exec-8]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 152394
+[2022-03-21 16:06:06.508] WARN [http-nio-8000-exec-10]com.alibaba.druid.pool.DruidAbstractDataSource.testConnectionInternal:1494 -discard long time none received connection. , jdbcUrl : jdbc:mysql://pay-all-yc-sg-cluster.cluster-cctfla751ard.ap-southeast-1.rds.amazonaws.com:3306/dc_meta?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false&serverTimezone=Asia/Shanghai, version : 1.2.8, lastPacketReceivedIdleMillis : 100207
+[2022-03-21 18:05:20.699] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<1>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:05:20.727] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<3>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:05:20.733] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<5>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:05:20.737] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<7>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:05:20.849] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<9>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:05:21.068] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<11>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:05:21.380] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<13>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:05:21.792] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<15>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:05:22.315] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<17>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:05:22.937] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<19>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:05:23.657] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<21>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:05:24.380] WARN [main]o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext.refresh:559 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'fintechDomainController': Unsatisfied dependency expressed through field 'fintechDomainService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'fintechDomainServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'fintechDomainMapper' defined in file [/Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure/dc-secure-dao/target/classes/com/payermax/data/secure/dao/mapper/FintechDomainMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'defaultDataSource' defined in class path resource [com/payermax/data/secure/client/config/MyBatisPlusConfig.class]: Invocation of init method failed; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+[2022-03-21 18:05:24.426] WARN [Thread-1]com.alibaba.nacos.common.http.HttpClientBeanHolder.shutdown:108 -[HttpClientBeanHolder] Start destroying common HttpClient
+[2022-03-21 18:05:24.426] WARN [Thread-7]com.alibaba.nacos.common.notify.NotifyCenter.shutdown:136 -[NotifyCenter] Start destroying Publisher
+[2022-03-21 18:05:24.426] WARN [Thread-7]com.alibaba.nacos.common.notify.NotifyCenter.shutdown:153 -[NotifyCenter] Destruction of the end
+[2022-03-21 18:05:24.426] WARN [Thread-1]com.alibaba.nacos.common.http.HttpClientBeanHolder.shutdown:114 -[HttpClientBeanHolder] Destruction of the end
+[2022-03-21 18:06:44.153] WARN [Thread-4]com.alibaba.nacos.common.notify.NotifyCenter.shutdown:136 -[NotifyCenter] Start destroying Publisher
+[2022-03-21 18:06:44.153] WARN [Thread-1]com.alibaba.nacos.common.http.HttpClientBeanHolder.shutdown:108 -[HttpClientBeanHolder] Start destroying common HttpClient
+[2022-03-21 18:06:44.158] WARN [Thread-4]com.alibaba.nacos.common.notify.NotifyCenter.shutdown:153 -[NotifyCenter] Destruction of the end
+[2022-03-21 18:06:44.158] WARN [Thread-1]com.alibaba.nacos.common.http.HttpClientBeanHolder.shutdown:114 -[HttpClientBeanHolder] Destruction of the end
+[2022-03-21 18:07:02.662] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<1>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:07:02.681] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<3>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:07:02.688] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<5>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:07:02.692] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<7>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:07:02.798] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<9>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:07:03.008] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<11>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:07:03.317] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<13>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:07:03.723] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<15>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:07:04.251] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<17>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:07:04.878] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<19>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:07:05.593] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<21>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:07:06.424] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<23>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:07:07.357] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<25>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:07:08.410] WARN [grpc-default-executor-0]c.a.nacos.shaded.io.grpc.internal.ManagedChannelImpl.handleErrorInSyncContext:1382 -[Channel<27>: (prod.nacos.pay.sg1.api:9848)] Failed to resolve name. status=Status{code=UNAVAILABLE, description=Unable to resolve host prod.nacos.pay.sg1.api, cause=java.lang.RuntimeException: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:420)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.resolveInternal(DnsNameResolver.java:256)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$Resolve.run(DnsNameResolver.java:213)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: prod.nacos.pay.sg1.api
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1281)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver$JdkAddressResolver.resolveAddress(DnsNameResolver.java:640)
+	at com.alibaba.nacos.shaded.io.grpc.internal.DnsNameResolver.resolveAll(DnsNameResolver.java:388)
+	... 5 more
+}
+[2022-03-21 18:07:08.412] WARN [main]o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext.refresh:559 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'fintechDomainController': Unsatisfied dependency expressed through field 'fintechDomainService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'fintechDomainServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'fintechDomainMapper' defined in file [/Users/liulang/Downloads/dc-secure/dc-secure-gitlab/dc-secure/dc-secure-dao/target/classes/com/payermax/data/secure/dao/mapper/FintechDomainMapper.class]: Unsatisfied dependency expressed through bean property 'sqlSessionFactory'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sqlSessionFactory' defined in class path resource [com/baomidou/mybatisplus/autoconfigure/MybatisPlusAutoConfiguration.class]: Unsatisfied dependency expressed through method 'sqlSessionFactory' parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'defaultDataSource' defined in class path resource [com/payermax/data/secure/client/config/MyBatisPlusConfig.class]: Invocation of init method failed; nested exception is org.springframework.boot.autoconfigure.jdbc.DataSourceProperties$DataSourceBeanCreationException: Failed to determine a suitable driver class
+[2022-03-21 18:07:08.561] WARN [Thread-1]com.alibaba.nacos.common.http.HttpClientBeanHolder.shutdown:108 -[HttpClientBeanHolder] Start destroying common HttpClient
+[2022-03-21 18:07:08.561] WARN [Thread-6]com.alibaba.nacos.common.notify.NotifyCenter.shutdown:136 -[NotifyCenter] Start destroying Publisher
+[2022-03-21 18:07:08.562] WARN [Thread-6]com.alibaba.nacos.common.notify.NotifyCenter.shutdown:153 -[NotifyCenter] Destruction of the end
+[2022-03-21 18:07:08.563] WARN [Thread-1]com.alibaba.nacos.common.http.HttpClientBeanHolder.shutdown:114 -[HttpClientBeanHolder] Destruction of the end
