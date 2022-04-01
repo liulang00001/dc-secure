@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.payermax.data.secure.dao.mapper.SecureLevelMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.payermax.data.secure.domain.vo.SecureLevelVO">
+        <id column="id" property="id" />
+        <result column="secure_level" property="secureLevel" />
+        <result column="transmission_mode" property="transmissionMode" />
+        <result column="storage_mode" property="storageMode" />
+        <result column="display_mode" property="displayMode" />
+        <result column="create_time" property="createTime" />
+        <result column="modified_time" property="modifiedTime" />
+    </resultMap>
+
+</mapper>

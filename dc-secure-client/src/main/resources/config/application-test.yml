@@ -1,0 +1,10 @@
+nacos:
+  config:
+    server-addr: 172.20.94.210:8848
+    namespace: 6e07ceb6-97a7-49de-a8ce-b66097165a27
+    data-id: application.yml
+    group: dc-secure
+    auto-refresh: true
+    type: yaml
+    bootstrap:
+      enable: true

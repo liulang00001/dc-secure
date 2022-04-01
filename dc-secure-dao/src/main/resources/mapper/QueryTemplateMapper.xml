@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.payermax.data.secure.dao.mapper.QueryTemplateMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.payermax.data.secure.domain.vo.QueryTemplateVO">
+        <id column="id" property="id" />
+        <result column="source_id" property="sourceId" />
+        <result column="category_id" property="categoryId" />
+        <result column="template_id" property="templateId" />
+        <result column="template_desc" property="templateDesc" />
+        <result column="script_template" property="scriptTemplate" />
+        <result column="additional" property="additional" />
+        <result column="create_time" property="createTime" />
+        <result column="modified_time" property="modifiedTime" />
+    </resultMap>
+
+</mapper>

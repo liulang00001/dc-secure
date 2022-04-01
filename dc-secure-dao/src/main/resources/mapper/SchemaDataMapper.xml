@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.payermax.data.secure.dao.mapper.SchemaDataMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.payermax.data.secure.domain.vo.SchemaDataVO">
+        <result column="TABLE_SCHEMA" property="tableSchema"/>
+        <result column="TABLE_NAME" property="tableName"/>
+        <result column="COLUMN_NAME" property="columnName"/>
+        <result column="COLUMN_COMMENT" property="columnComment"/>
+    </resultMap>
+
+    <select id="queryForTableSchema" resultType="java.lang.String">
+        SELECT DISTINCT TABLE_SCHEMA
+        FROM information_schema.COLUMNS
+    </select>
+
+    <select id="queryForTableName" resultType="java.lang.String">
+        SELECT DISTINCT TABLE_NAME
+        FROM information_schema.COLUMNS where TABLE_SCHEMA =#{tableSchema,jdbcType=VARCHAR}
+        and TABLE_NAME not in  (SELECT  DISTINCT  table_name  from dc_meta.dc_secure_exclusive_table where table_schema =#{tableSchema,jdbcType=VARCHAR})
+    </select>
+
+    <select id="queryForColumns" resultType="java.lang.String">
+        SELECT COLUMN_NAME
+        FROM information_schema.COLUMNS
+        where TABLE_SCHEMA =#{tableSchema,jdbcType=VARCHAR}
+          and TABLE_NAME =#{tableName,jdbcType=VARCHAR}
+            and COLUMN_NAME not in (SELECT  field_name  from dc_meta.dc_secure_field where table_schema =#{tableSchema,jdbcType=VARCHAR} and table_name=#{tableName,jdbcType=VARCHAR})
+    </select>
+
+    <select id="queryForColumnComment" resultType="java.lang.String">
+        SELECT COLUMN_COMMENT
+        FROM information_schema.COLUMNS
+        where TABLE_SCHEMA =#{tableSchema,jdbcType=VARCHAR}
+          and TABLE_NAME =#{tableName,jdbcType=VARCHAR}
+          and COLUMN_NAME =#{columnName,jdbcType=VARCHAR}
+    </select>
+
+
+</mapper>

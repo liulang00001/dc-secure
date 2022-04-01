@@ -1,0 +1,12 @@
+nacos:
+  config:
+    server-addr: prod.nacos.pay.sg1.api:8848
+    namespace: prod
+    data-id: application.yml
+    group: dc-secure
+    username: prod
+    password: chIXDL0oXaWM
+    auto-refresh: true
+    type: yaml
+    bootstrap:
+      enable: true

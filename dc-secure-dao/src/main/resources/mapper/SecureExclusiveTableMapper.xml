@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.payermax.data.secure.dao.mapper.SecureExclusiveTableMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.payermax.data.secure.domain.vo.SecureExclusiveTableVO">
+        <id column="id" property="id"/>
+        <result column="source_id" property="sourceId"/>
+        <result column="table_schema" property="tableSchema"/>
+        <result column="table_name" property="tableName"/>
+        <result column="create_time" property="createTime"/>
+        <result column="modified_time" property="modifiedTime"/>
+    </resultMap>
+
+    <select id="queryTableSchema" resultType="java.lang.String">
+        SELECT DISTINCT table_schema
+        FROM dc_secure_exclusive_table
+    </select>
+
+    <select id="queryTableName" resultType="java.lang.String">
+        SELECT DISTINCT table_name
+        FROM dc_secure_exclusive_table
+    </select>
+
+</mapper>
